@@ -3,7 +3,7 @@ Welcome Dev Applicants!
 
 We would like you to make an express app which consumes the following api:
 
-http://mobile-test-api.influentialdev.com/
+https://sauron.api.influentialdev.com/
 
 Which has two endpoints
 
