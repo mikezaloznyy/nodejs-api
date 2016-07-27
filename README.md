@@ -1,3 +1,19 @@
+## Synopsis
+The package consists of the following files:
+- routes/index.js (Express implementation)
+- views/index.jade (Jade implementation)
+
+## Tests
+All the code was implemented on Windows platform.
+
+ - run the following command either from Postman or Chrome browser:
+  ```
+   http://localhost:3000/
+ ```
+
+## Screenshot
+![Alt text](https://github.com/mikezaloznyy/dev-test/blob/master/screenshot-1.png "Screenshot of the API")
+
 # dev-test
 Welcome Dev Applicants!
 
