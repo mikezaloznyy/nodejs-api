@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1= title
+
+  each val, index in data
+    if (index % 3 == 0)
+      div.row()
+    a(href="#{val.image}") 
+      img(src="#{val.image}" width="5%")
