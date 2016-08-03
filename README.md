@@ -12,7 +12,7 @@ All the code was implemented on Windows platform.
  ```
 
 ## Screenshot
-![Alt text](https://github.com/mikezaloznyy/dev-test/blob/master/screenshot-1.png "Screenshot of the API")
+![Alt text](https://github.com/mikezaloznyy/nodejs-api/blob/master/screenshot-1.png "Screenshot of the API")
 
 # dev-test
 Welcome Dev Applicants!
